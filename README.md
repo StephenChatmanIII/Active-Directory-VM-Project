@@ -2,7 +2,7 @@
 Active Directory home lab using Windows Server in a virtual environment. Installed and configured AD DS, DNS, users, groups, and Group Policy. Implemented password and access policies, tested authentication,
 and validated user access. Troubleshot issues via group, DNS, and policy checks. Includes screenshots of setup and configuration.
 
-Active Directory Home Lab
+Active Directory Home Lab (Everything here is from a simulated lab with no real world information)
 Overview
 Academic cybersecurity project demonstrating the implementation and management of a Windows Server Active Directory environment using a virtual machine.
 
